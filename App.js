@@ -1,3 +1,5 @@
+// MADE INCREMENT AND DECREMENT COUNTER THROUGH REACT
+
 import { useState } from "react";
 import "./App.css";
 
